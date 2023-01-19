@@ -1,0 +1,1 @@
+document.getElementById("man").style.color = ("red");
